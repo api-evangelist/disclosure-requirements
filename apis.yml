@@ -1,12 +1,24 @@
+aid: disclosure-requirements
 name: Disclosure Requirements
-description: Disclosure Requirements is a specialized technology or methodology in
-  the disclosure domain that addresses specific technical or business requirements.
-  It provides targeted capabilities that help practitioners and organizations solve
-  problems and improve outcomes in their area of focus.
-url: null
+description: >-
+  Disclosure Requirements are the regulatory and legal obligations for
+  organizations to reveal specific information to stakeholders, regulators,
+  and the public. These requirements span financial disclosures, environmental
+  reporting, privacy notices, and corporate governance, helping ensure
+  transparency and accountability.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Disclosure Requirements
-created: '2025'
-modified: '2025'
+  - Disclosure Requirements
+  - Compliance
+  - Regulations
+  - Transparency
+url: https://raw.githubusercontent.com/api-evangelist/disclosure-requirements/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -9,8 +9,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Disclosure Requirements
   - Compliance
+  - Disclosure Requirements
   - Regulations
   - Transparency
 url: https://raw.githubusercontent.com/api-evangelist/disclosure-requirements/refs/heads/main/apis.yml

@@ -7,7 +7,7 @@ description: >-
   sustainability and ESG reporting (CSRD, ESRS, IFRS S1/S2, TCFD, GRI, SASB),
   privacy notices (GDPR, CCPA), and corporate governance, helping ensure
   transparency and accountability across markets and jurisdictions.
-type: Topic
+kind: topic
 position: Topic
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:

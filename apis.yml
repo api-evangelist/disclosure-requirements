@@ -33,19 +33,19 @@ common:
     type: Regulator
   - url: https://www.efrag.org/lab6
     name: EFRAG ESRS
-    type: Standard
+    type: Standards
   - url: https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/
     name: IFRS S1 / S2
-    type: Standard
+    type: Standards
   - url: https://www.fsb-tcfd.org/
     name: TCFD
-    type: Standard
+    type: Standards
   - url: https://www.globalreporting.org/
     name: GRI
-    type: Standard
+    type: Standards
   - url: https://sasb.ifrs.org/
     name: SASB
-    type: Standard
+    type: Standards
   - url: https://gdpr.eu/
     name: GDPR
     type: Regulation

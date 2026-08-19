@@ -33,7 +33,7 @@ tags:
 url: https://raw.githubusercontent.com/api-evangelist/disclosure-requirements/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - url: https://www.sec.gov/edgar
